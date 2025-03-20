@@ -24,7 +24,7 @@ local Tables = {
 }
 
 for i,v in pairs(Tables) do
-   memorystats.cache(v)
+   --memorystats.cache(v)
 end
 
 ------ * Velocity Ui * ------
